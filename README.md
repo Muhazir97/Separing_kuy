@@ -1,2 +1,2 @@
 # Separing_kuy
-Aplikasi untuk mencari lawan dan info separing futsal atau footbal
+Aplikasi untuk mencari lawan dan info separing futsal atau footbal berbasis web
